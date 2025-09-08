@@ -1,5 +1,13 @@
 {
+  "scripts": {
+    "zenn:new": "zenn new:article",
+    "zenn:preview": "zenn preview",
+    "zenn:new-book": "zenn new:book"
+  },
   "devDependencies": {
     "@qiita/qiita-cli": "^1.6.2"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.2.3"
   }
 }
