@@ -6,7 +6,7 @@
 qiita CLI コマンド
 
 ```
-npx qiita new:article
+npx qiita new 記事のファイルのベース名
 npx qiita preview
 ```
 
