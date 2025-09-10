@@ -2,12 +2,12 @@
 title: TypeScriptで固定長配列の型を定義したい
 tags:
   - TypeScript
-  - 固定長配列
   - 型定義
-  - ByteArray
+  - bytearray
+  - 固定長配列
 private: false
-updated_at: ""
-id: null
+updated_at: '2025-09-10T23:20:17+09:00'
+id: 5d23e78c99fff47a0c5c
 organization_url_name: null
 slide: false
 ignorePublish: false
